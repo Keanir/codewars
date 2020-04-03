@@ -1,0 +1,2 @@
+# codewars
+Kata solutions
